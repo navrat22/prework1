@@ -1,1 +1,6 @@
-bool(0)
+foo = True
+print(foo)
+bar = False
+print(bar)
+check = foo == bar
+print(check)
