@@ -1,0 +1,7 @@
+print("Enter your name:")
+name = input()
+print("Enter your year of birth:")
+year = input()
+2024 - int(year)
+age = 2024 - int(year)
+print(f"{name} is {age} )")
